@@ -1,4 +1,4 @@
-# toxit-comment-classification
+# toxic-comment-classification
 
 This project is an educational endeavor that guides you through fine-tuning a transformer model for multilabel text classification. The project is organized into distinct steps, including importing necessary libraries, preprocessing domain-specific data, setting up datasets and dataloaders, creating a neural network for fine-tuning, executing the fine-tuning process, and evaluating model performance.
 
